@@ -37,7 +37,6 @@ def main(args):
         else:
             print(f'{password} was NOT found. Carry on!!')
         return 'Done!'
->>>>>>> main
 
 
 if __name__ == '__main__':
