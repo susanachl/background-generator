@@ -36,7 +36,7 @@ def main(args):
                 f'{password} was found {count} times... you should probably change your password.')
         else:
             print(f'{password} was NOT found. Carry on!')
-        return 'Done you did it!'
+        return 'DONE you did it!'
 
 
 if __name__ == '__main__':
